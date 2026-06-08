@@ -14,9 +14,9 @@
   <a href="https://www.linkedin.com/in/bibek7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
- <a href="https://www.bibekgautam7.com.np/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=firefoxbrowser&label=&color=FF7139&logoColor=white&style=for-the-badge" height="25" />
-  </a>
+<a href="https://www.bibekgautam7.com.np/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Portfolio&label=Visit&color=FF7139&style=for-the-badge" height="25" />
+</a>
 </div>
 
 <h1 align="center">Bibek Gautam</h1>

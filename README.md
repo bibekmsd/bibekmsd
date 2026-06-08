@@ -57,28 +57,29 @@ Ping Communications — https://www.pingcomms.biz
 
 ## 🚀 Featured Projects
 
-### 1. NIDS – Network Intrusion Detection System
+### 1. [NIDS – Network Intrusion Detection System](https://www.bibekgautam7.com.np/projects/proj_003)
 
 Hybrid intrusion detection system combining pattern matching and machine learning techniques for threat detection.
 
-### 2. SysGuard
+---
+
+### 2. [SysGuard](https://github.com/bibekmsd/sysguard)
 
 Linux-focused System Health & Security Toolkit built with Bash for process monitoring, network inspection, system auditing, and security analysis.
 
-### 3. Fokus
+---
+
+### 3. [Fokus]
 
 Productivity and task management application focused on helping users stay organized and productive.
 
-### 4. Melanoma Detection AI – Skin Lesion Classification System
-
-End-to-end AI-powered medical image classification system for melanoma risk prediction.
-
-- Designed and developed a full-stack ML inference pipeline using React (frontend) and FastAPI (backend)
-- Integrated a trained deep learning model for real-time image-based classification
-- Implemented secure image upload and REST API-based prediction workflow
-- Deployed frontend on Vercel and backend model service on Render for production accessibility
-- Outputs probability-based diagnostic predictions for melanoma detection
 ---
+
+### 4. [Melanoma Detection AI](https://melanoma-frontend.vercel.app/)
+
+AI-powered skin lesion classification system for melanoma risk prediction using a trained ML model.
+
+Built using React (frontend) and FastAPI (backend), deployed on Vercel and Render.
 
 ## 🛠️ Tech Stack
 

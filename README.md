@@ -42,21 +42,17 @@ Hi, I'm Bibek Gautam from Nepal 🇳🇵
 
 ## 🚀 Featured Projects
 
-### 🔹 NIDS – Network Intrusion Detection System
+### 1. NIDS – Network Intrusion Detection System
 
 Hybrid intrusion detection system combining pattern matching and machine learning techniques for threat detection.
 
-### 🔹 SysGuard
+### 2. SysGuard
 
 Linux-focused System Health & Security Toolkit built with Bash for process monitoring, network inspection, system auditing, and security analysis.
 
-### 🔹 Fokus
+### 3. Fokus
 
 Productivity and task management application focused on helping users stay organized and productive.
-
-### 🔹 Period Tracker
-
-Cross-platform Flutter application for health tracking, cycle prediction, and symptom management.
 
 ---
 

@@ -40,6 +40,18 @@ Hi, I'm Bibek Gautam from Nepal 🇳🇵
 
 ---
 
+## 💼 Experience
+
+### Web Developer & Digital Content Engineer
+Ping Communications — https://www.pingcomms.biz
+
+- Owned and delivered the full lifecycle development of the company website, including system design, UI/UX architecture, frontend implementation, deployment, and production release
+- Designed and engineered a chatbot system and automated email pipeline to improve user engagement and communication efficiency
+- Built and maintained the company’s digital identity, including branding systems and reusable design assets
+- Led continuous development, maintenance, and optimization of the production website, ensuring stability and iterative improvements
+- Translated business and stakeholder requirements into scalable, production-ready technical solutions with direct end-to-end responsibility
+---
+
 ## 🚀 Featured Projects
 
 ### 1. NIDS – Network Intrusion Detection System

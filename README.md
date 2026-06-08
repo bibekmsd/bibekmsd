@@ -22,7 +22,7 @@
 <h1 align="center">Bibek Gautam</h1>
 
 <h4 align="center">
-Mobile Developer • Systems Engineering Enthusiast • Cybersecurity Learner
+Software Engineer • Systems Engineering • Security & AI/ML Systems
 </h4>
 
 ---
@@ -69,6 +69,15 @@ Linux-focused System Health & Security Toolkit built with Bash for process monit
 
 Productivity and task management application focused on helping users stay organized and productive.
 
+### 4. Melanoma Detection AI – Skin Lesion Classification System
+
+End-to-end AI-powered medical image classification system for melanoma risk prediction.
+
+- Designed and developed a full-stack ML inference pipeline using React (frontend) and FastAPI (backend)
+- Integrated a trained deep learning model for real-time image-based classification
+- Implemented secure image upload and REST API-based prediction workflow
+- Deployed frontend on Vercel and backend model service on Render for production accessibility
+- Outputs probability-based diagnostic predictions for melanoma detection
 ---
 
 ## 🛠️ Tech Stack

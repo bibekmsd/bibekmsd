@@ -69,7 +69,7 @@ Linux-focused System Health & Security Toolkit built with Bash for process monit
 
 ---
 
-### 3. [Fokus]
+### 3. Fokus
 
 Productivity and task management application focused on helping users stay organized and productive.
 
@@ -80,6 +80,8 @@ Productivity and task management application focused on helping users stay organ
 AI-powered skin lesion classification system for melanoma risk prediction using a trained ML model.
 
 Built using React (frontend) and FastAPI (backend), deployed on Vercel and Render.
+
+---
 
 ## 🛠️ Tech Stack
 
